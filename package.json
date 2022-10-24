@@ -1,0 +1,9 @@
+{
+  "name": "candidato-fake-api",
+  "version": "1.0.0",
+  "description": "fornece uma lista de perguntas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
