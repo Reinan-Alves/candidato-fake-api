@@ -3,17 +3,17 @@
     {
       "id": 1,
       "nome": "Lula",
-      "votos": 20
+      "votos": 49
     },
     {
       "id": 2,
       "nome": "Bolsonaro",
-      "votos": 20
+      "votos": 50
     },
     {
       "id": 3,
       "nome": "Brancos ou nulos",
-      "votos": 10
+      "votos": 12
       
     }
   ]
